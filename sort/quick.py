@@ -1,11 +1,6 @@
 """
 Review of quick sort
 More information see https://en.wikipedia.org/wiki/Quicksort
-
-Average runtime: O(n*log(n)) (can be written O(n) best case with three-way
-    partition)
-Worst runtime: O(n^2)
-Worst-case space complexity: O(nlog(n))
 """
 from math import ceil
 
